@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:export-ydpi="96.000008"
-   inkscape:export-xdpi="96.000008"
-   inkscape:export-filename="D:\MEGAsync\Documents\MNs\Safiria\Maps\Firneramnen master.png"
-   sodipodi:docname="Firneramnen master.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   id="svg2"
-   viewBox="0 0 13855.556 13911.11"
-   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   version="1.1"
-   height="1251.9999"
-   width="1247"
    xml:space="preserve"
+   width="1247"
+   height="1251.9999"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 13855.556 13911.11"
+   id="svg2"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Firneramnen master.svg"
+   inkscape:export-filename="D:\MEGAsync\Documents\MNs\Safiria\Maps\Firneramnen master.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -42,13 +42,13 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-bbox="true"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
+     inkscape:window-y="24"
+     inkscape:window-x="0"
      inkscape:cy="625.99994"
-     inkscape:cx="623.7069"
-     inkscape:zoom="0.65415342"
+     inkscape:cx="623.6347"
+     inkscape:zoom="0.63418537"
      units="px"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -56,7 +56,7 @@
      fit-margin-top="0"
      showgrid="false"
      id="namedview721"
-     inkscape:window-height="1027"
+     inkscape:window-height="1000"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -66,7 +66,9 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:pagecheckerboard="0" /><defs
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1" /><defs
      id="defs4"><font
        style="font-variant:normal;font-weight:400"
        vert-adv-y="90"
@@ -439,11 +441,11 @@
    y="2352.7195"
    id="text10140-2"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4793.4419"
      y="2352.7195"
      id="tspan10142-7"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">Transport</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Transport</tspan></text>
 
 
 
@@ -452,55 +454,55 @@
 
 
 <text
-   x="-2997.4458"
-   y="2622.802"
+   x="-3332.1731"
+   y="2525.6482"
    id="text4180-7"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
-     x="-2997.4458"
-     y="2622.802"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+     x="-3332.1731"
+     y="2525.6482"
      id="tspan4182-6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">motorway</tspan><tspan
-     x="-2997.4458"
-     y="2872.802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">motorway</tspan><tspan
+     x="-3332.1731"
+     y="2775.6482"
      id="tspan4667"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">divided highway</tspan><tspan
-     x="-2997.4458"
-     y="3122.802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">divided highway</tspan><tspan
+     x="-3332.1731"
+     y="3025.6482"
      id="tspan4186-9"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">major route</tspan><tspan
-     x="-2997.4458"
-     y="3372.802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">major route</tspan><tspan
+     x="-3332.1731"
+     y="3275.6482"
      id="tspan4188-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">secondary route</tspan><tspan
-     x="-2997.4458"
-     y="3622.802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">secondary route</tspan><tspan
+     x="-3332.1731"
+     y="3525.6482"
      id="tspan4190-6"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">minor road</tspan><tspan
-     x="-2997.4458"
-     y="3872.802"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">minor road</tspan><tspan
+     x="-3332.1731"
+     y="3775.6482"
      id="tspan4192-2"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">paved / unpaved track</tspan><tspan
-     x="-2997.4458"
-     y="4122.8018"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">paved / unpaved track</tspan><tspan
+     x="-3332.1731"
+     y="4025.6479"
      id="tspan4194-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">railroad / train station</tspan><tspan
-     x="-2997.4458"
-     y="4372.8018"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">railroad / train station</tspan><tspan
+     x="-3332.1731"
+     y="4275.6479"
      id="tspan4208-7"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">tunnel (road)</tspan><tspan
-     x="-2997.4458"
-     y="4622.8018"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">tunnel (road)</tspan><tspan
+     x="-3332.1731"
+     y="4525.6479"
      id="tspan4210-0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">tunnel (railroad)</tspan><tspan
-     x="-2997.4458"
-     y="4872.8018"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">tunnel (railroad)</tspan><tspan
+     x="-3332.1731"
+     y="4775.6479"
      id="tspan4302-9"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">maritime route</tspan><tspan
-     x="-2997.4458"
-     y="5122.8018"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">maritime route</tspan><tspan
+     x="-3332.1731"
+     y="5025.6479"
      id="tspan4888"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">runway</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">runway</tspan></text>
 
 
 
@@ -569,18 +571,15 @@
    x="-4825.2065"
    y="2408.9148"
    id="rect28717-6"
-   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.33333;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><g
-   transform="matrix(11.111112,0,0,11.111112,-5343.7403,-2783.3246)"
-   id="g4013-2"
-   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><path
-     inkscape:connector-curvature="0"
-     d="M 165.39185,608.58275 H 61.391855"
-     id="path3227-1"
-     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><path
-     inkscape:connector-curvature="0"
-     d="M 165.39185,608.58275 H 61.391855"
-     id="path4011-8"
-     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1" /></g><path
+   style="clip-rule:evenodd;display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.33333;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><path
+   inkscape:connector-curvature="0"
+   d="M -3506.0529,3978.7065 H -4661.6085"
+   id="path3227-1"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><path
+   inkscape:connector-curvature="0"
+   d="M -3506.0529,3978.7065 H -4661.6085"
+   id="path4011-8"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:22.2222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:133.333, 133.333;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><path
    inkscape:connector-curvature="0"
    d="m -3506.0533,3728.7065 h -566.588"
    id="path4882"
@@ -599,13 +598,13 @@
    y="6070.4165"
    id="text4045-0"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3343.4419"
      y="6070.4165"
      id="tspan4047-0"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"><tspan
        id="tspan4049-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">port / mooring / ferry</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">port / mooring / ferry</tspan></tspan></text>
 
 
 
@@ -618,11 +617,11 @@
    y="5310.4971"
    id="text14588-1"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3337.9731"
      y="5310.4971"
      id="tspan14592-5"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">airport / airstrip</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">airport / airstrip</tspan></text>
 
 
 
@@ -659,11 +658,11 @@
    y="5678.5698"
    id="text3012-2"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3343.4419"
      y="5678.5698"
      id="tspan3014-7"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">airbase / heliport</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">airbase / heliport</tspan></text>
 
 
 
@@ -672,19 +671,19 @@
 
 
 <text
-   x="-2320.3452"
-   y="6338.9009"
+   x="-4358.043"
+   y="6338.9004"
    id="text3892"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:center;writing-mode:lr-tb;text-anchor:middle;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
-     x="-2291.8296"
-     y="6338.9009"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+     x="-3313.5264"
+     y="6338.9004"
      id="tspan3895"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">parking / </tspan><tspan
-     x="-2320.3452"
-     y="6548.9009"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">parking / </tspan><tspan
+     x="-3342.042"
+     y="6548.9004"
      id="tspan3904"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000">light rail/tram  stations</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">light rail/tram  stations</tspan></text>
 
 
 
@@ -797,11 +796,11 @@
    y="6813.3433"
    id="text4741"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3337.0942"
      y="6813.3433"
      id="tspan4743"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:108%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">route labels</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">route labels</tspan></text>
 
 
 
@@ -852,11 +851,11 @@
    transform="scale(0.91411937,1.093949)"
    id="text4923"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.667px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.667px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4604.5098"
      y="6230.0137"
      id="tspan4925"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.667px;line-height:105%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">N 7</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.667px;line-height:105%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">N 7</tspan></text>
 
 
 
@@ -878,11 +877,11 @@
    transform="scale(0.91411937,1.093949)"
    id="text4945"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.667px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.667px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4166.917"
      y="6230.0137"
      id="tspan4947"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:166.667px;line-height:105%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">A 4</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.667px;line-height:105%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">A 4</tspan></text>
 
 
 
@@ -982,11 +981,11 @@
    transform="scale(0.91411937,1.093949)"
    id="text8636"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#007300;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#007300;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4010.873"
      y="6847.001"
      id="tspan8638"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:105%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#007300;fill-opacity:1">Important nature reserves</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:105%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#007300;fill-opacity:1">Important nature reserves</tspan></text>
 
 
 
@@ -999,11 +998,11 @@
    y="7160.688"
    id="text4674"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4808.9419"
      y="7160.688"
      id="tspan4676"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">Protected areas</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Protected areas</tspan></text>
 
 
 
@@ -1049,11 +1048,11 @@
    y="7783.9634"
    id="text8606"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3663.8472"
      y="7783.9634"
      id="tspan8608"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:200px;line-height:105%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Other protected areas</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:105%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Other protected areas</tspan></text>
 
 
 
@@ -1066,15 +1065,15 @@
    y="8010.689"
    id="text8616"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3687.853"
      y="8010.689"
      id="tspan8620"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">Note : adopt colors to best suit</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Note : adopt colors to best suit</tspan><tspan
      x="-3687.853"
      y="8188.4663"
      id="tspan3908"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">your map</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">your map</tspan></text>
 
 
 
@@ -1091,11 +1090,11 @@
    y="8856.6592"
    id="text4847"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#c40000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#c40000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-3613.8403"
      y="8856.6592"
      id="tspan4849"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:105%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c40000">Military or prohibited area</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:105%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#c40000">Military or prohibited area</tspan></text>
 
 
 
@@ -1112,11 +1111,11 @@
    y="8507.0391"
    id="text8624"
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="-4786.7192"
      y="8507.0391"
      id="tspan8626"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:Ticonderoga;-inkscape-font-specification:Ticonderoga;text-align:start;writing-mode:lr-tb;text-anchor:start">Restricted access</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:177.778px;line-height:100%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Restricted access</tspan></text>
 
 
 
@@ -1212,7 +1211,259 @@
    y="7327.4204"
    x="3795.7937"
    height="212.13205"
-   width="322.12646" /></g><g
+   width="322.12646" /><path
+   inkscape:connector-curvature="0"
+   d="M -3506.0529,1951.2707 H -4661.6085"
+   id="path4617"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ff4800;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><path
+   inkscape:connector-curvature="0"
+   d="M -3506.0529,1951.2707 H -4661.6085"
+   id="path4619"
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:22.2222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:133.333, 133.333;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><rect
+   width="202.83446"
+   height="70.387085"
+   x="-3860.9067"
+   y="1916.0776"
+   id="rect4621"
+   style="clip-rule:evenodd;display:inline;fill:#ff4800;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.55556;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><text
+   x="-3337.9731"
+   y="2001.8606"
+   id="text4625"
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+     x="-3337.9731"
+     y="2001.8606"
+     id="tspan4623"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;line-height:108%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">maglev / station</tspan></text><text
+   x="9823.6465"
+   y="14376.193"
+   id="text14778"
+   style="text-align:end;text-anchor:end"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     id="tspan14776"
+     x="9823.6465"
+     y="14376.193">1 px = 14.386013652 km²<tspan
+   style="font-size:65%;text-align:end;baseline-shift:super;text-anchor:end"
+   id="tspan14774" /></tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     x="9823.6465"
+     y="14792.859"
+     id="tspan20237">1 px = 5.554470921 mi²</tspan></text><text
+   x="9701.4814"
+   y="15631.142"
+   id="text18408"
+   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9701.4814"
+     y="15631.142"
+     id="tspan20196">1 px = 3.792889881 km</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9701.4814"
+     y="16047.808"
+     id="tspan20204">1 px = 2.356792507 mi</tspan></text><text
+   x="4765.0337"
+   y="14721.747"
+   id="text20222"
+   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="4765.0337"
+     y="14721.747"
+     id="tspan20216">1 in = 226.252080709 mi</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="4765.0337"
+     y="15138.413"
+     id="tspan20218">1 cm = 143.353318337 km</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="4765.0337"
+     y="15555.08"
+     id="tspan20220">SCALE 14,335,332:1</tspan></text><text
+   transform="scale(1.0000529,0.99994711)"
+   x="12169.023"
+   y="10524.25"
+   class="fil7 fnt4"
+   id="text21056"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:368.284px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:0.553106;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+     sodipodi:role="line"
+     x="12169.023"
+     y="10524.25"
+     id="tspan21074"
+     style="stroke-width:0.553106">SCALE 14,335,000:1</tspan><tspan
+     sodipodi:role="line"
+     id="tspan21060"
+     x="12169.023"
+     y="10892.534"
+     style="stroke-width:0.553106">1” = 226¼ MI</tspan><tspan
+     sodipodi:role="line"
+     x="12169.023"
+     y="11260.818"
+     id="tspan21064"
+     style="stroke-width:0.553106">1 CM = 143⅓ KM</tspan></text><text
+   x="9701.4814"
+   y="17610.398"
+   id="text23498"
+   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9701.4814"
+     y="17610.398"
+     id="tspan23502">250 km = 65.91280207 px</tspan><tspan
+     sodipodi:role="line"
+     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9701.4814"
+     y="18027.064"
+     id="tspan23506">250 mi =106.076372552 px</tspan></text><text
+   transform="scale(1.0000529,0.99994711)"
+   x="8706.1807"
+   y="13794.051"
+   class="fil7 fnt4"
+   id="text23568"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:666.667px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:500px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan23566">QUEENDOM OF</tspan></text><g
+   id="g27268"><rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.3876;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:86.3253, 86.3253;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect23518"
+     width="4736.7222"
+     height="111.11111"
+     x="8678.6006"
+     y="746.97253" /><rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.3494;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:68.0965, 68.0965;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect18468"
+     width="2947.4807"
+     height="111.11111"
+     x="8678.6006"
+     y="646.96667" /><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.06006;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:30.3604, 30.3604;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect18472"
+     width="732.36304"
+     height="88.888893"
+     x="9422.0762"
+     y="658.07764" /><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.06006;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:30.3604, 30.3604;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect18476"
+     width="732.36304"
+     height="88.888893"
+     x="10886.802"
+     y="658.07764" /><text
+     transform="scale(1.0000529,0.99994711)"
+     x="9421.5781"
+     y="624.77808"
+     class="fil7 fnt4"
+     id="text18486"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">250</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="8689.2529"
+     y="624.77808"
+     class="fil7 fnt4"
+     id="text18488"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">0</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="10886.23"
+     y="624.77808"
+     class="fil7 fnt4"
+     id="text18508"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">750</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="11618.556"
+     y="624.77808"
+     class="fil7 fnt4"
+     id="text18512"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">1000</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="10153.904"
+     y="387.74292"
+     class="fil7 fnt4"
+     id="text19390"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+       sodipodi:role="line"
+       x="10153.904"
+       y="387.74292"
+       id="tspan19388">km</tspan><tspan
+       sodipodi:role="line"
+       x="10153.904"
+       y="624.77991"
+       id="tspan19392">500</tspan></text><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.41919;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:38.5152, 38.5152;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect23520"
+     width="1178.6263"
+     height="88.888893"
+     x="9868.3379"
+     y="758.08154" /><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.41919;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:38.5152, 38.5152;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect23524"
+     width="1178.6263"
+     height="88.888893"
+     x="12225.59"
+     y="758.08154" /><text
+     transform="scale(1.0000529,0.99994711)"
+     x="9866.7168"
+     y="1025.6082"
+     class="fil7 fnt4"
+     id="text23526"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">250</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="8689.252"
+     y="1024.9128"
+     class="fil7 fnt4"
+     id="text23528"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">0</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="12221.355"
+     y="1025.8386"
+     class="fil7 fnt4"
+     id="text23530"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">750</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="13396.158"
+     y="1024.9167"
+     class="fil7 fnt4"
+     id="text23532"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">1000</text><text
+     transform="scale(1.0000529,0.99994711)"
+     x="11043.776"
+     y="1025.6082"
+     class="fil7 fnt4"
+     id="text23538"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:237.037px;line-height:1;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
+       sodipodi:role="line"
+       x="11043.776"
+       y="1025.6082"
+       id="tspan23536">500</tspan><tspan
+       sodipodi:role="line"
+       x="11043.776"
+       y="1262.6451"
+       id="tspan23542">mi</tspan></text><rect
+     style="fill:#006a44;fill-opacity:1;stroke:none;stroke-width:6.41919;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:38.5152, 38.5152;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect26960"
+     width="1178.6263"
+     height="88.888893"
+     x="8689.7119"
+     y="758.08154" /><rect
+     style="fill:#006a44;fill-opacity:1;stroke:none;stroke-width:6.41919;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:38.5152, 38.5152;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect26962"
+     width="1178.6263"
+     height="88.888893"
+     x="11046.964"
+     y="758.08154" /><rect
+     style="fill:#006a44;fill-opacity:1;stroke:none;stroke-width:5.06006;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:30.3604, 30.3604;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect27102"
+     width="732.36304"
+     height="88.888893"
+     x="8689.7129"
+     y="658.07764" /><rect
+     style="fill:#006a44;fill-opacity:1;stroke:none;stroke-width:5.06006;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:30.3604, 30.3604;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect27104"
+     width="732.36304"
+     height="88.888893"
+     x="10154.438"
+     y="658.07764" /></g></g><g
      style="display:none"
      inkscape:label="Physical"
      id="layer4"
@@ -1814,7 +2065,8 @@
      style="display:inline"
      inkscape:label="Political"
      id="layer2"
-     inkscape:groupmode="layer"><g
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"><g
        id="g5208"
        style="stroke:#67aed1;stroke-width:55.5556;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><path
          style="clip-rule:evenodd;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67aed1;stroke-width:55.5556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
@@ -2065,7 +2317,8 @@
      style="display:inline"
      inkscape:label="Borders"
      id="layer5"
-     inkscape:groupmode="layer"><path
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"><path
        style="clip-rule:evenodd;display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67aed1;stroke-width:55.5591;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        inkscape:connector-curvature="0"
        d="m 9680.0876,9338.9378 c 28.0134,-99.0368 98.0468,-304.1129 164.0783,-420.1559 51.0243,-89.0331 -14.0067,-238.0884 14.0066,-336.1248 37.0177,-130.0482 247.1175,-576.2138 329.1565,-648.2405 42.021,-37.0137 507.242,216.0802 631.301,108.0401 203.097,-178.0661 326.156,-538.1997 548.262,-732.2717 62.029,-54.0201 251.12,-13.0049 329.157,-36.0134 74.035,-21.0078 185.088,-138.0512 233.111,-180.0668 53.025,-46.0171 571.272,-151.0561 603.288,-179.0665 34.016,-30.0111 5.002,-173.0642 41.019,-204.0757 81.039,-71.0263 246.117,61.0227 247.118,60.0223 84.04,-74.0275 93.044,-287.1066 206.098,-336.1247 34.016,-15.0056 288.138,-203.0754 288.138,-216.0802 0,-30.0112 -71.034,-40.0149 -96.046,-84.0312 -139.067,-244.0906 -5.003,-586.2175 -179.086,-768.2851 l -27.012,-60.0223 c -17.009,-22.0081 -174.083,-428.1588 -178.085,-432.1603 -57.028,-50.0186 14.006,-227.0843 -41.02,-276.1025 -41.019,-36.0133 18.009,-164.0608 -28.013,-204.0757 -160.077,-140.052 -293.14,-412.1529 -521.249,-612.2272 -84.04,-73.0271 -94.045,-209.0775 -205.098,-287.1065 l -55.026,-60.0223 c -71.034,-42.0156 -153.073,-181.0672 -315.15,-228.0846 -87.042,-26.0097 -1124.536,-204.0757 -1124.536,-204.0757 -56.027,48.0178 -178.085,35.013 -234.112,84.0312 -65.031,57.0211 -116.055,162.0601 -191.091,228.0846 -36.017,31.0115 -1282.6115,246.0913 -1358.6477,180.0668 -156.0744,-137.0509 -594.2834,-293.1088 -699.3334,-384.1425 -102.0487,-90.0334 -312.1489,-176.0654 -370.1765,-276.1025 -232.1107,-406.1507 -163.0778,-947.3515 -480.229,-1224.4543 -55.0262,-48.0179 68.0324,-170.0631 28.0134,-240.0891 -165.0787,-288.1069 -275.1312,-588.21829 -549.2619,-828.30738 -58.0277,-50.01856 -10.0048,-196.07275 -82.0391,-228.08463 -64.0306,-28.0104 -227.1083,199.07387 -274.1307,240.08909 C 6220.4382,653.715 6039.3518,476.64929 5990.3285,433.63333 5807.2412,273.57394 5548.1176,652.71462 5483.0866,709.73578 5357.0265,820.77699 5185.945,808.77253 5084.8968,949.82487 l -54.0258,36.01336 c -129.0615,113.04197 -289.1378,195.07237 -357.1703,372.13807 -53.0252,141.0524 -608.29,255.0947 -466.2222,504.1871 89.0424,156.0579 449.2141,439.163 302.144,696.2584 -220.1049,384.1425 -825.3935,423.157 -1056.5037,828.3073 -84.0401,147.0546 112.0534,256.095 178.0849,371.1377 99.0472,173.0642 -253.1207,289.1073 -164.0782,444.1648 157.0749,275.1021 427.2037,304.1129 452.2156,348.1292 45.0214,79.0293 63.03,648.2406 96.0458,792.294 l -13.0062,48.0178 c -10.0048,190.0706 131.0625,664.2465 -42.0201,816.3029 -34.0162,30.0112 -147.0701,74.0275 -164.0782,120.0446 -29.0138,76.0282 -28.0134,144.0534 -69.0329,216.0802 -73.0348,127.0471 79.0377,387.1436 -27.0129,479.1778 -28.0133,25.0092 -116.0553,30.0111 -151.072,60.0222 -107.0511,94.0349 -180.0859,220.0817 -260.124,360.1337 -142.0678,248.092 141.0672,617.229 0,864.3207 -40.0191,69.0256 -113.0539,141.0523 -137.0654,204.0757 -15.0071,39.0145 -16.0076,134.0497 -42.02,156.0579 -44.021,39.0145 -189.0902,3.0011 -246.1174,36.0134 -90.0429,52.0193 -129.0615,125.0464 -179.0853,168.0623 -35.0167,31.0115 -165.0787,12.0045 -219.1045,36.0134 -191.0911,84.0312 -459.2189,277.1028 -507.2418,444.1648 l -55.0263,48.0178 c -173.0825,48.0178 -177.0844,275.1021 -288.1374,372.1381 -126.0601,110.0408 -332.1583,157.0583 -493.2351,264.0979 -119.0568,78.029 -719.34298,925.343 -699.33344,959.356 83.03959,147.055 278.13261,76.028 370.17649,156.058 439.20945,384.143 545.25995,279.104 1110.52945,444.165 183.0873,54.02 432.2061,-4.002 617.2943,36.013 148.0706,32.012 679.3239,-18.007 754.3597,48.018 106.0505,93.035 639.3048,1204.447 864.4121,1008.374 104.0496,-92.034 255.1216,-224.083 356.1698,-312.116 39.0186,-34.012 112.0535,-15.005 151.0721,-48.017 41.0195,-36.014 58.0276,-111.042 96.0457,-144.054 63.0301,-55.02 221.1055,-14.005 274.1307,-60.022 48.0229,-42.016 98.0468,-122.045 151.0721,-168.063 55.0262,-49.018 230.1097,-29.01 301.1435,-60.022 88.042,-38.014 124.0592,-276.102 192.0916,-336.125 50.0239,-43.016 202.0964,-69.025 261.1245,-120.044 68.0325,-60.022 154.0735,-183.068 219.1045,-240.089 12.0057,-11.004 703.3353,-205.076 809.3859,-252.094 143.0682,-62.023 390.186,11.004 548.2614,-24.009 224.1068,-49.018 346.165,-229.085 562.2681,-324.12 154.0734,-67.025 384.1831,-71.026 507.2418,-180.067 89.0424,-77.028 214.1021,-234.087 302.144,-311.115 40.0191,-36.014 168.0802,-16.006 206.0983,-48.018 125.0596,-111.0412 438.2089,-239.0887 438.2089,-372.1381 94.0449,-103.0382 98.0468,-175.0649 165.0787,-348.1291 z"
@@ -2229,7 +2482,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="State names"
-     style="display:inline"><text
+     style="display:inline"
+     sodipodi:insensitive="true"><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:111.111px;word-spacing:0px;text-anchor:middle;clip-rule:evenodd;display:inline;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    x="2883.4414"
@@ -2403,7 +2657,7 @@
    id="text4395"
    y="8844.5898"
    x="4886.5747"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:55.55555694px;word-spacing:0px;text-anchor:middle;clip-rule:evenodd;display:inline;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:55.5556px;word-spacing:0px;text-anchor:middle;clip-rule:evenodd;display:inline;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    xml:space="preserve"><tspan
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#999999"
      y="8844.5898"
@@ -2540,7 +2794,7 @@
      id="tspan98251">1. DAŠYR</tspan><tspan
      sodipodi:role="line"
      x="212.53256"
-     y="940.10754"
+     y="940.10748"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
      id="tspan100294">2. TUZĀRI</tspan><tspan
      sodipodi:role="line"
@@ -2560,7 +2814,7 @@
      id="tspan98253">5. SÍŇU</tspan><tspan
      sodipodi:role="line"
      x="212.53256"
-     y="2680.8474"
+     y="2680.8477"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
      id="tspan73314">6. KATŌREN</tspan><tspan
      sodipodi:role="line"
@@ -2648,15 +2902,32 @@
      style="stroke-width:11.1111"
      x="6335.585"
      y="8424.7988" /></text></g><g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Railroads"
+     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><path
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#000000;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4076.9154,12547.185 3733.2511,12227.01 3557.4313,11683.142 2474.7176,11347.359 704.80725,10880.509 2658.0879,9064.1114 c 0,0 1031.0822,-200.6116 777.0168,-1184.3239 l 177.0887,-595.6122 317.1512,-747.2773 324.1544,-428.1587 12.0059,-1579.5865 -588.2805,-346.6284 -42.0201,-661.7456 378.1805,-170.063 c 0,0 1067.214,-689.3194 457.7181,-1571.5832 L 5881.0128,475.7493"
+       id="path3843"
+       sodipodi:nodetypes="cccccccccccccccc" /><path
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#ffffff;stroke-width:22.22222277;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:133.33333965, 133.33333965;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 4076.9154,12547.185 3733.2511,12227.01 3557.4313,11683.142 2474.7176,11347.359 704.80725,10880.509 2658.0879,9064.1114 c 0,0 1031.0822,-200.6116 777.0168,-1184.3239 l 177.0887,-595.6122 317.1512,-747.2773 324.1544,-428.1587 12.0059,-1579.5865 -588.2805,-346.6284 -42.0201,-661.7456 378.1805,-170.063 c 0,0 1067.214,-689.3194 457.7181,-1571.5832 L 5881.0128,475.7493"
+       id="path3845"
+       sodipodi:nodetypes="cccccccccccccccc" /><path
+       style="fill:none;stroke:#ff4800;stroke-width:33.33333416;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       d="m 4076.9154,12547.185 251.1092,-795.618 -575.7645,-754.014 -154.0735,-597.221 482.3436,-1066.7716 695.5554,-858.478 426.1061,-595.2949 571.0317,-721.6593 710.3389,-647.2403 -133.2157,-1452.5621 -429.7992,-850.7364 -1712.07,8.4471 -531.2531,-33.5122"
+       id="path7569" /><path
+       style="fill:none;stroke:#ffffff;stroke-width:22.22222277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:133.33333965,133.33333965;stroke-dashoffset:0"
+       d="m 4076.9154,12547.185 251.1092,-795.618 -575.7645,-754.014 -154.0735,-597.221 482.3436,-1066.7716 695.5554,-858.478 426.1061,-595.2949 571.0317,-721.6593 710.3389,-647.2403 -133.2157,-1452.5621 -429.7992,-850.7364 -1712.07,8.4471 -531.2531,-33.5122"
+       id="path7847" /></g><g
      style="display:inline"
      inkscape:label="Municipalities"
      id="layer1"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true"><polygon
+     inkscape:groupmode="layer"><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital"
    class="fil7"
-   points="20932,14553 21050,14553 20954,14622 20991,14734 20895,14665 20800,14734 20836,14622 20741,14553 20859,14553 20895,14440 "
+   points="20991,14734 20895,14665 20800,14734 20836,14622 20741,14553 20859,14553 20895,14440 20932,14553 21050,14553 20954,14622 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><g
    transform="matrix(1.000477,0,0,1.0003712,-7859.7755,-8315.5553)"
    id="National_x0020_Capital"
@@ -2668,7 +2939,7 @@
      id="circle453"
      style="fill:none;stroke:#000000;stroke-width:55.5551;stroke-linejoin:round" /><polygon
      class="fil7"
-     points="12086,20805 11990,20875 12027,20987 11931,20917 11835,20987 11872,20875 11776,20805 11895,20805 11931,20693 11967,20805 "
+     points="11931,20917 11835,20987 11872,20875 11776,20805 11895,20805 11931,20693 11967,20805 12086,20805 11990,20875 12027,20987 "
      id="polygon455"
      style="fill:#000000" /><circle
      class="fil6 str4"
@@ -2680,37 +2951,37 @@
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_1"
    class="fil7"
-   points="11821,14927 11940,14926 11844,14996 11880,15108 11785,15038 11689,15108 11726,14996 11630,14926 11749,14927 11785,14814 "
+   points="11880,15108 11785,15038 11689,15108 11726,14996 11630,14926 11749,14927 11785,14814 11821,14927 11940,14926 11844,14996 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_2"
    class="fil7"
-   points="16930,18239 17048,18239 16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 "
+   points="16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 17048,18239 16953,18308 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_3"
    class="fil7"
-   points="12363,10170 12481,10170 12386,10240 12422,10352 12327,10282 12231,10352 12268,10240 12172,10170 12290,10170 12327,10058 "
+   points="12422,10352 12327,10282 12231,10352 12268,10240 12172,10170 12290,10170 12327,10058 12363,10170 12481,10170 12386,10240 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_4"
    class="fil7"
-   points="11570,12573 11688,12573 11592,12642 11629,12755 11533,12685 11438,12755 11474,12642 11378,12573 11497,12573 11533,12460 "
+   points="11629,12755 11533,12685 11438,12755 11474,12642 11378,12573 11497,12573 11533,12460 11570,12573 11688,12573 11592,12642 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_5"
    class="fil7"
-   points="15367,19154 15485,19154 15390,19223 15426,19335 15331,19266 15235,19335 15272,19223 15176,19154 15294,19154 15331,19041 "
+   points="15426,19335 15331,19266 15235,19335 15272,19223 15176,19154 15294,19154 15331,19041 15367,19154 15485,19154 15390,19223 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_6"
    class="fil7"
-   points="11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 "
+   points="11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital_7"
    class="fil7"
-   points="8598,19269 8717,19268 8621,19338 8658,19450 8562,19380 8466,19450 8503,19338 8407,19268 8526,19269 8562,19156 "
+   points="8658,19450 8562,19380 8466,19450 8503,19338 8407,19268 8526,19269 8562,19156 8598,19269 8717,19268 8621,19338 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><ellipse
    ry="75.02784"
    rx="75.035774"
@@ -3273,7 +3544,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 "
+   points="11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 "
    class="fil7"
    id="polygon4130"
    transform="matrix(1.000477,0,0,1.0003712,-6248.4222,-8708.8034)" />
@@ -3288,7 +3559,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-5565.3992,-9542.2168)"
    id="polygon4140"
    class="fil7"
-   points="11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 "
+   points="11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3299,14 +3570,14 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 "
+   points="11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 "
    class="fil7"
    id="polygon4148"
    transform="matrix(1.000477,0,0,1.0003712,-7533.0067,-10093.648)" /><polygon
    transform="matrix(1.000477,0,0,1.0003712,-8529.343,-9604.8793)"
    id="polygon4150"
    class="fil7"
-   points="11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 "
+   points="11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3325,7 +3596,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 "
+   points="11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 "
    class="fil7"
    id="polygon4164"
    transform="matrix(1.000477,0,0,1.0003712,-8955.4491,-10363.097)" />
@@ -3340,7 +3611,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-8178.4321,-11547.421)"
    id="polygon4172"
    class="fil7"
-   points="11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 "
+   points="11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3353,7 +3624,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-6837.4512,-10952.126)"
    id="polygon4178"
    class="fil7"
-   points="11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 "
+   points="11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3366,7 +3637,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-7708.4622,-10714.008)"
    id="polygon4188"
    class="fil7"
-   points="11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 "
+   points="11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3379,7 +3650,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-6411.3451,-11547.421)"
    id="polygon4196"
    class="fil7"
-   points="11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 "
+   points="11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3390,7 +3661,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="17048,18239 16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 "
+   points="16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 17048,18239 16953,18308 16989,18420 "
    class="fil7"
    id="polygon4204"
    transform="matrix(1.000477,0,0,1.0003712,-6156.8525,-10384.73)" />
@@ -3405,7 +3676,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-9584.5,-10785.771)"
    id="polygon4224"
    class="fil7"
-   points="16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 17048,18239 "
+   points="16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 17048,18239 16953,18308 16989,18420 16894,18351 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3418,7 +3689,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-9083.4251,-11687.848)"
    id="polygon4224-2"
    class="fil7"
-   points="16857,18239 16894,18126 16930,18239 17048,18239 16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 "
+   points="17048,18239 16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 "
    style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3429,7 +3700,7 @@
 
 <polygon
    style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="16894,18126 16930,18239 17048,18239 16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 "
+   points="16953,18308 16989,18420 16894,18351 16798,18420 16835,18308 16739,18239 16857,18239 16894,18126 16930,18239 17048,18239 "
    class="fil7"
    id="polygon4259"
    transform="matrix(1.000477,0,0,1.0003712,-6163.3452,-12471.131)" />
@@ -3442,7 +3713,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="11592,12642 11629,12755 11533,12685 11438,12755 11474,12642 11378,12573 11497,12573 11533,12460 11570,12573 11688,12573 "
+   points="11438,12755 11474,12642 11378,12573 11497,12573 11533,12460 11570,12573 11688,12573 11592,12642 11629,12755 11533,12685 "
    class="fil7"
    id="polygon4267"
    transform="matrix(1.000477,0,0,1.0003712,-5617.9536,-8404.5904)" />
@@ -3455,7 +3726,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="12386,10240 12422,10352 12327,10282 12231,10352 12268,10240 12172,10170 12290,10170 12327,10058 12363,10170 12481,10170 "
+   points="12231,10352 12268,10240 12172,10170 12290,10170 12327,10058 12363,10170 12481,10170 12386,10240 12422,10352 12327,10282 "
    class="fil7"
    id="polygon4275"
    transform="matrix(1.000477,0,0,1.0003712,-6451.3669,-9733.0388)" />
@@ -3470,7 +3741,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-5188.1544,-7553.8539)"
    id="polygon4297"
    class="fil7"
-   points="11629,12755 11533,12685 11438,12755 11474,12642 11378,12573 11497,12573 11533,12460 11570,12573 11688,12573 11592,12642 "
+   points="11474,12642 11378,12573 11497,12573 11533,12460 11570,12573 11688,12573 11592,12642 11629,12755 11533,12685 11438,12755 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3644,7 +3915,7 @@
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="15390,19223 15426,19335 15331,19266 15235,19335 15272,19223 15176,19154 15294,19154 15331,19041 15367,19154 15485,19154 "
+   points="15235,19335 15272,19223 15176,19154 15294,19154 15331,19041 15367,19154 15485,19154 15390,19223 15426,19335 15331,19266 "
    class="fil7"
    id="polygon4013"
    transform="matrix(1.000477,0,0,1.0003712,-9043.3454,-9589.3973)" />
@@ -3662,12 +3933,12 @@
    transform="matrix(1.000477,0,0,1.0003712,-6739.4686,-9867.2273)"
    id="polygon4037"
    class="fil7"
-   points="11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 "
+   points="11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 <polygon
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   points="8717,19268 8621,19338 8658,19450 8562,19380 8466,19450 8503,19338 8407,19268 8526,19269 8562,19156 8598,19269 "
+   points="8562,19380 8466,19450 8503,19338 8407,19268 8526,19269 8562,19156 8598,19269 8717,19268 8621,19338 8658,19450 "
    class="fil7"
    id="polygon4047"
    transform="matrix(1.000477,0,0,1.0003712,-5008.6527,-7627.0227)" />
@@ -3694,7 +3965,7 @@
    transform="matrix(1.000477,0,0,1.0003712,-7285.5122,-7675.6418)"
    id="polygon4099"
    class="fil7"
-   points="11667,19455 11704,19567 11608,19498 11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 "
+   points="11512,19567 11549,19455 11453,19386 11572,19386 11608,19273 11644,19386 11763,19386 11667,19455 11704,19567 11608,19498 "
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
 
 
@@ -3725,7 +3996,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Municipality names"
-     style="display:inline"><text
+     style="display:inline"
+     sodipodi:insensitive="true"><text
        id="text3974"
        y="7624.9004"
        x="8680.9678"
