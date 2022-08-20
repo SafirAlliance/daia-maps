@@ -7,7 +7,7 @@
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    viewBox="0 0 13855.556 13911.11"
    id="svg2"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="Firneramnen master.svg"
    inkscape:export-filename="D:\MEGAsync\Documents\MNs\Safiria\Maps\Firneramnen master.png"
    inkscape:export-xdpi="96.000008"
@@ -24,10 +24,10 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
      inkscape:document-rotation="0"
-     showguides="false"
+     showguides="true"
      inkscape:snap-others="true"
-     inkscape:snap-nodes="false"
-     inkscape:snap-global="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:bbox-nodes="false"
@@ -42,13 +42,13 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
      inkscape:snap-bbox="true"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer9"
      inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="0"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
      inkscape:cy="625.99994"
-     inkscape:cx="623.6347"
-     inkscape:zoom="0.63418537"
+     inkscape:cx="623.19904"
+     inkscape:zoom="0.35702879"
      units="px"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -56,8 +56,8 @@
      fit-margin-top="0"
      showgrid="false"
      id="namedview721"
-     inkscape:window-height="1000"
-     inkscape:window-width="1920"
+     inkscape:window-height="697"
+     inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -1238,51 +1238,51 @@
    x="9823.6465"
    y="14376.193"
    id="text14778"
-   style="text-align:end;text-anchor:end"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
      id="tspan14776"
      x="9823.6465"
      y="14376.193">1 px = 14.386013652 km²<tspan
-   style="font-size:65%;text-align:end;baseline-shift:super;text-anchor:end"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;baseline-shift:super;text-anchor:end"
    id="tspan14774" /></tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
      x="9823.6465"
-     y="14792.859"
+     y="14746.563"
      id="tspan20237">1 px = 5.554470921 mi²</tspan></text><text
    x="9701.4814"
    y="15631.142"
    id="text18408"
-   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
      x="9701.4814"
      y="15631.142"
      id="tspan20196">1 px = 3.792889881 km</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
      x="9701.4814"
-     y="16047.808"
+     y="16001.512"
      id="tspan20204">1 px = 2.356792507 mi</tspan></text><text
    x="4765.0337"
    y="14721.747"
    id="text20222"
-   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
      x="4765.0337"
      y="14721.747"
      id="tspan20216">1 in = 226.252080709 mi</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
      x="4765.0337"
-     y="15138.413"
+     y="15092.117"
      id="tspan20218">1 cm = 143.353318337 km</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
      x="4765.0337"
-     y="15555.08"
+     y="15462.487"
      id="tspan20220">SCALE 14,335,332:1</tspan></text><text
    transform="scale(1.0000529,0.99994711)"
    x="12169.023"
@@ -1305,28 +1305,20 @@
      y="11260.818"
      id="tspan21064"
      style="stroke-width:0.553106">1 CM = 143⅓ KM</tspan></text><text
-   x="9701.4814"
-   y="17610.398"
+   x="9561.4365"
+   y="16692.328"
    id="text23498"
-   style="text-align:end;text-anchor:end;fill:#0000ff"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff"><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
-     x="9701.4814"
-     y="17610.398"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9561.4365"
+     y="16692.328"
      id="tspan23502">250 km = 65.91280207 px</tspan><tspan
      sodipodi:role="line"
-     style="font-style:normal;font-weight:normal;font-size:333.333px;text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
-     x="9701.4814"
-     y="18027.064"
-     id="tspan23506">250 mi =106.076372552 px</tspan></text><text
-   transform="scale(1.0000529,0.99994711)"
-   x="8706.1807"
-   y="13794.051"
-   class="fil7 fnt4"
-   id="text23568"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:666.667px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;clip-rule:evenodd;fill:#000000;fill-rule:evenodd;stroke-width:1.00123;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:500px;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-     id="tspan23566">QUEENDOM OF</tspan></text><g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:296.296px;font-family:'Linux Biolinum';-inkscape-font-specification:'Linux Biolinum';text-align:end;text-anchor:end;fill:#0000ff;fill-opacity:1;stroke:none"
+     x="9561.4365"
+     y="17062.697"
+     id="tspan23506">250 mi =106.076372552 px</tspan></text><g
    id="g27268"><rect
      style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.3876;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:86.3253, 86.3253;stroke-dashoffset:0;stroke-opacity:1"
      id="rect23518"
@@ -2506,7 +2498,7 @@
      y="-5591.1426"
      x="4277.0884"
      id="tspan4348"
-     sodipodi:role="line">VARHAJĒ</tspan></text>
+     sodipodi:role="line">VARHAJÊ</tspan></text>
 
 <text
    id="text4363"
@@ -2519,7 +2511,7 @@
      y="2902.647"
      x="10755.267"
      id="tspan4365"
-     sodipodi:role="line">VĀNARIA</tspan></text>
+     sodipodi:role="line">VÂNARIA</tspan></text>
 
 <text
    xml:space="preserve"
@@ -2597,7 +2589,7 @@
      y="9323.1846"
      x="-1308.8335"
      id="tspan4373"
-     sodipodi:role="line">VESSĀRA</tspan></text>
+     sodipodi:role="line">VESSÂRA</tspan></text>
 
 <text
    id="text4375"
@@ -2610,7 +2602,7 @@
      y="3363.1416"
      x="6734.7549"
      id="tspan4377"
-     sodipodi:role="line">AGIMĀ</tspan></text>
+     sodipodi:role="line">AGIMÂ</tspan></text>
 
 <text
    id="text4383"
@@ -2623,7 +2615,7 @@
      y="10835.576"
      x="2795.1855"
      id="tspan4385"
-     sodipodi:role="line">ZĒRAI</tspan></text>
+     sodipodi:role="line">ZÊRAI</tspan></text>
 
 <text
    xml:space="preserve"
@@ -2663,7 +2655,7 @@
      y="8844.5898"
      x="4914.3525"
      id="tspan4397"
-     sodipodi:role="line">MINĀLE</tspan></text>
+     sodipodi:role="line">MINÂLE</tspan></text>
 
 <text
    id="text4403"
@@ -2693,7 +2685,7 @@
      y="0.78716058"
      x="11450.651"
      id="tspan4015"
-     sodipodi:role="line">ÌRĒSA</tspan></text>
+     sodipodi:role="line">ÌRÊSA</tspan></text>
 
 <text
    id="text4314"
@@ -2796,12 +2788,12 @@
      x="212.53256"
      y="940.10748"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
-     id="tspan100294">2. TUZĀRI</tspan><tspan
+     id="tspan100294">2. TUZÂRI</tspan><tspan
      sodipodi:role="line"
      x="212.53256"
      y="1375.2925"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
-     id="tspan100296">3. ŠIĐĀLI</tspan><tspan
+     id="tspan100296">3. ŠIĐÂLI</tspan><tspan
      sodipodi:role="line"
      x="212.53256"
      y="1810.4775"
@@ -2816,12 +2808,12 @@
      x="212.53256"
      y="2680.8477"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
-     id="tspan73314">6. KATŌREN</tspan><tspan
+     id="tspan73314">6. KATÔREN</tspan><tspan
      sodipodi:role="line"
      x="212.53256"
      y="3116.0325"
      style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:348.148px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#999999"
-     id="tspan80305">7. ĀÞRAI</tspan></text><text
+     id="tspan80305">7. ÂÞRAI</tspan></text><text
    id="text51565"
    y="9303.1982"
    x="5858.9941"
@@ -2905,25 +2897,34 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Railroads"
-     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><path
-       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#000000;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><path
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        d="M 4076.9154,12547.185 3733.2511,12227.01 3557.4313,11683.142 2474.7176,11347.359 704.80725,10880.509 2658.0879,9064.1114 c 0,0 1031.0822,-200.6116 777.0168,-1184.3239 l 177.0887,-595.6122 317.1512,-747.2773 324.1544,-428.1587 12.0059,-1579.5865 -588.2805,-346.6284 -42.0201,-661.7456 378.1805,-170.063 c 0,0 1067.214,-689.3194 457.7181,-1571.5832 L 5881.0128,475.7493"
        id="path3843"
        sodipodi:nodetypes="cccccccccccccccc" /><path
-       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;fill:none;stroke:#ffffff;stroke-width:22.22222277;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:133.33333965, 133.33333965;stroke-opacity:1;stroke-dashoffset:0"
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:22.2222;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:133.333, 133.333;stroke-dashoffset:0;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        d="M 4076.9154,12547.185 3733.2511,12227.01 3557.4313,11683.142 2474.7176,11347.359 704.80725,10880.509 2658.0879,9064.1114 c 0,0 1031.0822,-200.6116 777.0168,-1184.3239 l 177.0887,-595.6122 317.1512,-747.2773 324.1544,-428.1587 12.0059,-1579.5865 -588.2805,-346.6284 -42.0201,-661.7456 378.1805,-170.063 c 0,0 1067.214,-689.3194 457.7181,-1571.5832 L 5881.0128,475.7493"
        id="path3845"
        sodipodi:nodetypes="cccccccccccccccc" /><path
-       style="fill:none;stroke:#ff4800;stroke-width:33.33333416;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ff4800;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
        d="m 4076.9154,12547.185 251.1092,-795.618 -575.7645,-754.014 -154.0735,-597.221 482.3436,-1066.7716 695.5554,-858.478 426.1061,-595.2949 571.0317,-721.6593 710.3389,-647.2403 -133.2157,-1452.5621 -429.7992,-850.7364 -1712.07,8.4471 -531.2531,-33.5122"
        id="path7569" /><path
-       style="fill:none;stroke:#ffffff;stroke-width:22.22222277;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-dasharray:133.33333965,133.33333965;stroke-dashoffset:0"
+       style="fill:none;stroke:#ffffff;stroke-width:22.2222;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:133.333, 133.333;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4076.9154,12547.185 251.1092,-795.618 -575.7645,-754.014 -154.0735,-597.221 482.3436,-1066.7716 695.5554,-858.478 426.1061,-595.2949 571.0317,-721.6593 710.3389,-647.2403 -133.2157,-1452.5621 -429.7992,-850.7364 -1712.07,8.4471 -531.2531,-33.5122"
-       id="path7847" /></g><g
+       id="path7847" /><path
+       style="fill:none;stroke:#000000;stroke-width:33.3333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4076.9153,12547.184 1142.044,-722.407 612.2832,-411.016 c 0,0 450.726,-648.294 1645.2931,-648.294 l 1563.7458,-915.3396 495.7362,-394.146 c 105.1927,-606.805 268.293,-1175.0049 651.3114,-1596.5927 l 557.377,35.6642 622.186,-659.8957 1677.298,-1072.398"
+       id="path20925"
+       sodipodi:nodetypes="cccccccccc" /><path
+       style="fill:none;stroke:#ffffff;stroke-width:22.2222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:133.333, 133.333;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 4076.9153,12547.184 1142.044,-722.407 612.2832,-411.016 c 0,0 450.726,-648.294 1645.2931,-648.294 l 1563.7458,-915.3396 495.7362,-394.146 c 105.1927,-606.805 268.293,-1175.0049 651.3114,-1596.5927 l 557.377,35.6642 622.186,-659.8957 1677.298,-1072.398"
+       id="path5996"
+       sodipodi:nodetypes="cccccccccc" /></g><g
      style="display:inline"
      inkscape:label="Municipalities"
      id="layer1"
-     inkscape:groupmode="layer"><polygon
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"><polygon
    transform="matrix(1.000477,0,0,1.0003712,-7861.2768,-8429.6555)"
    id="Local_x0020_Capital"
    class="fil7"
@@ -3992,6 +3993,20 @@
    cx="7048.7964"
    cy="7213.1489"
    id="ellipse15950"
+   style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><ellipse
+   ry="75.02784"
+   rx="75.035774"
+   class="fil7"
+   cx="10187.329"
+   cy="7859.3887"
+   id="ellipse6111"
+   style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /><ellipse
+   ry="75.02784"
+   rx="75.035774"
+   class="fil7"
+   cx="11366.892"
+   cy="7235.1572"
+   id="ellipse6478"
    style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /></g><g
      inkscape:groupmode="layer"
      id="layer9"
@@ -4047,7 +4062,7 @@
          y="6315.645"
          x="3955.6519"
          id="tspan4004"
-         sodipodi:role="line">Furāli</tspan></text><text
+         sodipodi:role="line">Furâli</tspan></text><text
        id="text4006"
        y="6420.8062"
        x="5006.7471"
@@ -4107,7 +4122,7 @@
          y="5229.561"
          x="8800.7861"
          id="tspan4036"
-         sodipodi:role="line">Pākal Enrus</tspan></text><text
+         sodipodi:role="line">Pâkal Enrus</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="12628.112"
@@ -4117,7 +4132,7 @@
          id="tspan4048"
          x="12628.112"
          y="5381.0488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Ekrā</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Ekrâ</tspan></text><text
        id="text4050"
        y="4880.1353"
        x="6894.7539"
@@ -4213,14 +4228,14 @@
          sodipodi:role="line">Paka</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-       x="13235.555"
-       y="2942.9985"
+       x="13214.192"
+       y="2962.5288"
        id="text3950-8"
        transform="rotate(24)"><tspan
          sodipodi:role="line"
          id="tspan3952-3"
-         x="13235.555"
-         y="2942.9985"
+         x="13214.192"
+         y="2962.5288"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Akroma</tspan></text><text
        id="text4226"
        y="7403.0288"
@@ -4241,7 +4256,7 @@
          y="6855.2637"
          x="6724.9653"
          id="tspan4228-6"
-         sodipodi:role="line">Pākal Orgus</tspan></text><text
+         sodipodi:role="line">Pâkal Orgus</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="10491.356"
@@ -4261,7 +4276,7 @@
          y="4545.2441"
          x="5769.7695"
          id="tspan4271"
-         sodipodi:role="line">Selrā</tspan></text><text
+         sodipodi:role="line">Selrâ</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="3086.4148"
@@ -4438,7 +4453,7 @@
          id="tspan3956"
          x="12702.079"
          y="4792.9663"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Vūru</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Vûru</tspan></text><text
        id="text3962"
        y="3986.5989"
        x="8982.9307"
@@ -4449,7 +4464,7 @@
          y="3986.5989"
          x="8982.9307"
          id="tspan3964"
-         sodipodi:role="line">Pākal Keleš</tspan></text><text
+         sodipodi:role="line">Pâkal Keleš</tspan></text><text
        id="text3966"
        y="8589.9053"
        x="7314.9214"
@@ -4545,7 +4560,7 @@
          y="5609.9897"
          x="5734.5361"
          id="tspan4176"
-         sodipodi:role="line">Visairū</tspan></text><text
+         sodipodi:role="line">Visairû</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="4812.812"
@@ -4597,7 +4612,7 @@
          y="9602.4072"
          x="6440.0337"
          id="tspan4019"
-         sodipodi:role="line">Ìrēsa</tspan></text><text
+         sodipodi:role="line">Ìrêsa</tspan></text><text
        id="text4027"
        y="4614.0439"
        x="9633.4404"
@@ -4629,7 +4644,7 @@
          id="tspan4057"
          x="2721.1973"
          y="11332.926"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Đūzan</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Đûzan</tspan></text><text
        id="text4073"
        y="11550.006"
        x="2316.9626"
@@ -4639,7 +4654,7 @@
          y="11550.006"
          x="2316.9626"
          id="tspan4071"
-         sodipodi:role="line">Áradī</tspan></text><text
+         sodipodi:role="line">Áradî</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="12929.979"
@@ -4650,7 +4665,7 @@
          id="tspan4899"
          x="12929.979"
          y="-611.21948"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Pākal Veiras</tspan></text><path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:177.778px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Pâkal Veiras</tspan></text><path
        style="clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;stroke-width:3.46296;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        d="m 4355.0668,12659.277 h 702.8889 v 27.778 h -702.8889 z"
        id="polygon476"
@@ -4696,4 +4711,26 @@
          id="tspan125597"
          x="4993.0024"
          y="9712.0586"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mezē</tspan></text></g></svg>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Mezê</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       x="13369.5"
+       y="2178.6748"
+       id="text2638"
+       transform="rotate(24)"><tspan
+         sodipodi:role="line"
+         id="tspan2636"
+         x="13369.5"
+         y="2178.6748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Aísen</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:0%;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       x="12566.026"
+       y="3284.5083"
+       id="text2642"
+       transform="rotate(24)"><tspan
+         sodipodi:role="line"
+         id="tspan2640"
+         x="12566.026"
+         y="3284.5083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:237.037px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Łiqeâ</tspan></text></g></svg>
