@@ -2,19 +2,17 @@ This document will contain the figures necessary to determine the scale of each 
 
 # DAIA
 
-*TBD*
-
-# FIRNERÁMNEN
-
 ## AREA
 
-* 1 px = 14.386013652 km²
-* 1 px = 5.554470921 mi²
+Because plate carrée maps are not equirectangular, a scaling factor must be applied.
+
+* 1 px² = 4.068 344 km²
+* 1 px² = 1.570 796 mi²
 
 ## DISTANCE
 
-* 1 px = 3.792889881 km
-* 1 px = 2.356792507 mi
-* 1 in = 226.252080709 mi
-* 1 cm = 143.353318337 km
-* Scale: 14,335,332:1
+* 1 px = 1.609 344 km
+* 1 px = 1. mi
+* 1 in = 96. mi
+* 1 cm = 60.825 60 km
+* Scale: 1:6,082,560
